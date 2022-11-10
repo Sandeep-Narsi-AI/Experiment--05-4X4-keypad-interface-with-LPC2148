@@ -290,11 +290,11 @@ void LCD_init()
 
 ## Output screen shots :
 ### Before simulation:
-![OUTPUT-01](IMG-01.PNG)
+![OUTPUT-01](IMG-01.png)
 ### After simulation:
-![OUTPUT-02](IMG-02.PNG)
+![OUTPUT-02](IMG-02.png)
 ### Layout diagram:
-![OUTPUT-03](IMG-03.PNG)
+![OUTPUT-03](IMG-03.png)
 
 
 ## Result :
